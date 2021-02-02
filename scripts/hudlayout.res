@@ -315,7 +315,7 @@
 		"ControlName"			"EditablePanel"
 		"visible"				"0"
 		"enabled"				"1"
-		"xpos"					"c-400"
+		"xpos"					"c-420"
 		"ypos"					"c-100"
 		"wide"					"640"
 		"tall"					"480"
