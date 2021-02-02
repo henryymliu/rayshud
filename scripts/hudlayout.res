@@ -326,7 +326,7 @@
 		"fieldName" 			"BuildingStatus_Engineer"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-450"
+		"xpos"					"c-420"
 		"ypos"					"c-100"
 		"wide"					"640"
 		"tall"					"480"
